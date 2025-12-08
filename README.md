@@ -1,4 +1,8 @@
+![GitHub License](https://img.shields.io/github/license/APeche/HYPAGS) [![https://doi.org/10.25928/5xpn-np63](https://img.shields.io/badge/DOI-10.25928%2F5xpn-np63?color=blue)](https://doi.org/10.25928/5xpn-np63)
+
 #HYPAGS
+
+
 
 ![HYPAGS](https://user-images.githubusercontent.com/11518814/185891201-7e94ed60-8650-43b2-91f9-ee290c9effe9.png)
 
